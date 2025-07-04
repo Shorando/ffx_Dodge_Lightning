@@ -10,3 +10,6 @@ If the “c” key is never pressed then you should lower it, if it is constantl
 ## Side notes
 
 I did this just for fun, I spent many hours in my childhood dodging lightning bolts on the PS2. It might not work on your system due not only to brightness, but also latencies (especially if you have a very old and slow PC that is barely able to run the game correctly), you could try then adjust SUBSAMPLE_STEP.
+
+
+Python 3.11.6
